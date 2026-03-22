@@ -1,15 +1,3 @@
-## Demo Features
-
-- Displays prices of Gold, Silver, Platinum, and Palladium
-- Independent loading indicators for each metal
-- Error handling with Retry functionality
-- Pull-to-refresh support
-- Navigation to the Details screen
-- Real-time timestamp display
-- Clean card-based UI with shadow styling
-
----
-
 # Metal Price App
 
 A React Native mobile application that displays prices of precious metals including Gold, Silver, Platinum, and Palladium. The app demonstrates navigation, API handling, loading states, error handling, and pull-to-refresh functionality.
